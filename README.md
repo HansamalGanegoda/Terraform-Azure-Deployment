@@ -19,3 +19,6 @@ This repository contains Terraform configuration files for deploying resources t
 
    ```bash
    terraform init
+   terraform plan
+   terraform apply
+
